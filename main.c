@@ -3,6 +3,6 @@
 
 int main()
 {
-    printf("Learning GIT teste!\n");
+    printf("Learning GIT teste!!\n");
     return 0;
 }
